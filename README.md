@@ -34,7 +34,6 @@ PwC provided a cleaned dataset for this study. The dataset consists of attribute
 
 The project utilizes Power BI to create interactive dashboards. DAX functions were used to create new measures required for calculating and visualizing all the primary and secondary KPIs.
 
-Feel free to explore the dashboards and data files in this repository to gain insights into the call center trends and performance at PwC Switzerland.
 
 ## 2. Customer Retention 
 
